@@ -1,0 +1,31 @@
+<speak>
+    <p>
+        <break time='1s'/>
+        <s>Você também pode falar com a gente pelo WhatsApp.</s>
+    </p>
+    <p>
+        <break time='400ms'/>
+        <s>Por favor, anote o número:</s>
+    </p>
+    <p>
+        <emphasis level='strong'><break time='500ms'/>
+        <s>Onze</s>
+        <break time='500ms'/>
+        <s>nove, oito cinco quatro nove</s>
+        <s>três oito, nove dois.</s>
+        </emphasis>
+    </p>
+    <p>
+        <s>
+            <break time='500ms'/>Vou repetir.<break time='500ms'/>
+        </s>
+    </p>
+    <p>
+        <emphasis level='strong'><break time='500ms'/>
+        <s>Onze</s>
+        <break time='500ms'/>
+        <s>nove, oito cinco quatro nove</s>
+        <s>três oito, nove dois.</s>
+        </emphasis>
+    </p>
+</speak>

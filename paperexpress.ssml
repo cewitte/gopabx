@@ -1,0 +1,11 @@
+<speak>
+    <p>
+        <break time="400ms"/>
+        <s><emphasis level="strong">Olá!</emphasis></s>
+        <s><emphasis level="moderate">A Paper Express agradece a sua ligação!</emphasis></s>
+        <break time="400ms"/>
+    </p>
+    <p>
+        <s>Por favor aguarde, que nossa equipe já irá lhe atender!</s>
+    </p>
+</speak>

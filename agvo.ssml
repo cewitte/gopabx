@@ -1,0 +1,43 @@
+<speak>
+    <p>
+        <break time="400ms"/>
+        <s><emphasis level="strong">Olá!</emphasis></s>
+        <s>A Alfa Grafix Vila Olímpia agradece a sua ligação!</s>
+        <break time="400ms"/>
+    </p>
+    <p>
+        <s>
+            Por favor, digite o ramal desejado. <break time="400ms"/>Ou:
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Digite, <emphasis level="strong">1</emphasis>, para solicitar um orçamento.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Digite, <emphasis level="strong">2</emphasis>, para obter o status de seu pedido.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Digite, <emphasis level="strong">3</emphasis>, para assuntos financeiros.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Digite, <emphasis level="strong">4</emphasis>, para quaisquer outros assuntos.<break time="400ms"/>Ou:
+        </s>
+    </p>
+    <p>
+        <s>
+            <emphasis level="strong">5</emphasis>, para ouvir todas as opções novamente.
+        </s>
+    </p>
+    <break time="1000ms"/>
+</speak>
