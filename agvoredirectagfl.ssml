@@ -1,0 +1,18 @@
+<speak>
+    <p>
+        <break time='1s'/>
+        <s><emphasis level="strong">Olá!</emphasis></s>
+    </p>
+    <p>
+        <break time='350ms'/>
+        <s>A Alfa Grafix Vila Olímpia fica aberta de segunda à sexta-feira, das oito e quinze às vinte e uma horas.</s>
+    </p>
+    <p>
+        <break time='350ms'/>
+        <s>Porém, nossa filial Alfa Grafix Faria Lima fica aberta vinte e quatro horas todos os dias, inclusive nos feriados.</s>
+    </p>
+    <p>
+        <break time='350ms'/>
+        <s>Por favor, aguarde um momento que já estamos transferindo sua ligação para lá.</s>
+    </p>
+</speak>
