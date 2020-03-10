@@ -1,0 +1,41 @@
+<speak>
+  <seq>
+    <media begin="2.0s">
+      <speak>Todos os nossos atendentes estão ocupados.</speak>
+    </media>
+    <media begin="1.0s">
+      <speak>Por favor, ligue mais tarde, ou anote outras opções de atendimento:</speak>
+    </media>
+    <media begin="0.5s">
+        <speak>O nosso WhatsApp é igual ao nosso número fixo:</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>onze, trinta sete oito, quatro nove, zero zero.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Vou repetir:</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Onze, trinta sete oito, quatro nove, zero zero.</speak>
+    </media>
+    <media begin="1.0s">
+      <speak>O nosso email é:</speak>
+    </media>
+    <media begin="1.0s">
+      <speak>contato arroba, A G 24 horas, ponto COM, ponto br.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>E o nosso site:</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>w w w ponto A G 24 horas, ponto COM, ponto br.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Você pode utilizar os links no topo direito do site para enviar arquivos e solicitar orçamentos.</speak>
+    </media>
+     <media begin="1.0s">
+      <speak>Obrigada!</speak>
+    </media>
+  </seq>
+</speak>
+
