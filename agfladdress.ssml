@@ -1,8 +1,8 @@
 <speak>
     <p>
-        <break time='1s'/>
+        <break time='2s'/>
         <s>Nosso endereço é: 
-        <emphasis level='strong'><break time='500ms'/>
+        <emphasis level='strong'><break time='1s'/>
         Avenida Brigadeiro Faria Lima, número dois nove quatro um, esquina com a rua Jerônimo da Veiga.</s>
         </emphasis>
     </p>

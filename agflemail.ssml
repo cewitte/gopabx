@@ -1,0 +1,20 @@
+<speak>
+  <seq>
+    <media begin="2.0s">
+      <speak>Nosso e-mail é:</speak>
+    </media>
+    <media begin="1.0s">
+      <speak>contato arroba</speak>
+    </media>
+    <media begin="0.1s">
+        <speak>A G 24 horas</speak>
+    </media>
+    <media begin="0.1s">
+        <speak>Ponto. Com.</speak>
+    </media>
+    <media begin="0.1s">
+        <speak>Ponto. B R.</speak>
+    </media>
+  </seq>
+</speak>
+

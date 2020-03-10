@@ -1,0 +1,14 @@
+<speak>
+  <seq>
+    <media begin="2.0s">
+      <speak>Nossa unidade é 24 horas todos os dias, de segunda a domingo, inclusive aos feriados.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Só fechamos alguns dias durante o natal, ano novo e carnaval.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Estamos de portas abertas 24 horas em todos os demais dias do ano.</speak>
+    </media>
+  </seq>
+</speak>
+

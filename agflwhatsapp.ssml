@@ -1,0 +1,20 @@
+<speak>
+  <seq>
+    <media begin="2.0s">
+      <speak>Por favor, anote o nosso WhatsApp.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Ele é igual ao nosso número fixo:</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>onze, trinta sete oito, quatro nove, zero zero.</speak>
+    </media>
+    <media begin="0.5s">
+        <speak>Vou repetir:</speak>
+    </media>
+    <media begin="0.5s">
+        <speak>onze, trinta sete oito, quatro nove, zero zero.</speak>
+    </media>
+  </seq>
+</speak>
+

@@ -1,0 +1,20 @@
+<speak>
+  <seq>
+    <media begin="2.0s">
+      <speak>Temos estacionamento conveniado.</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Ele está localizado na</speak>
+    </media>
+    <media begin="0.5s">
+      <speak>Rua Jerônimo da Veiga, número quatro meia um,</speak>
+    </media>
+    <media begin="0.1s">
+        <speak>bem ao lado da Alpha Grafix.</speak>
+    </media>
+    <media begin="0.5s">
+        <speak>Obtendo o selo de desconto ao pagar seu serviço no caixa, você paga apenas 10 reais pelo primeiro período.</speak>
+    </media>
+  </seq>
+</speak>
+
