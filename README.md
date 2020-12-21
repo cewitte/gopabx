@@ -23,6 +23,11 @@ O Google tem uma página bem explicativa sobre como [formatar o SSML](https://cl
 
 ## Antes de executar - uso da API do Google
 
-Antes de executar o programa, é necessário carregar o arquivo com as credenciais JSON. No meu caso, por exemplo
+Antes de executar o programa, é necessário carregar o arquivo com as credenciais JSON. No meu caso, por exemplo (no meu Linux)
 
 `export GOOGLE_APPLICATION_CREDENTIALS="/home/cewitte/GCP/pabx-58f1caa85116.json"`
+
+No meu Mac, por exemplo:
+
+`export GOOGLE_APPLICATION_CREDENTIALS="/Users/cewitte/GCP/pabx-58f1caa85116.json"`
+

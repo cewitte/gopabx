@@ -1,0 +1,30 @@
+<speak>
+    <break time="400ms"/>
+    <p>
+        <s><emphasis level="strong">Olá!</emphasis></s>
+    </p>
+        <break time="600ms"/>
+    <p>
+        <s>Faremos algumas pausas no atendimento nesse final de ano para que possamos celebrar o período de Festas ao lado de nossas famílias.</s>
+        <break time="400ms"/>
+    </p>
+    <p>
+        <s>
+            No período de Natal, o atendimento ao público será interrompido na quarta-feira, 23 de dezembro, às 20 horas, e retomado no sábado, 26 de dezembro, às 8 horas da manhã.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            No período de Ano Novo, o atendimento ao público será interrompido na quarta-feira, 30 de dezembro, às 20 horas, e retomado no sábado, 2 de janeiro, às 8 horas da manhã.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>Agradecemos a compreensão!</s>
+        <break time="400ms"/>
+        <s><emphasis level="strong">Boas Festas!!! E um 2021 repleto de saúde e alegria!!!</emphasis>
+        </s>
+    </p>
+    <break time="400ms"/>
+</speak>
