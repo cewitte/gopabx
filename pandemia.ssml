@@ -1,0 +1,23 @@
+<speak>
+    <p>
+        <break time="400ms"/>
+    </p>
+    <p>
+        <s>
+            Nossa equipe e recursos, estão limitados devido à pandemia.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Por isso, seu atendimento pode demorar um pouquinho mais.
+        </s>
+    </p>
+    <break time="400ms"/>
+    <p>
+        <s>
+            Agradecemos pela compreensão.
+        </s>
+    </p>
+    <break time="400ms"/>
+</speak>

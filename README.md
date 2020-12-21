@@ -20,3 +20,9 @@ A linguagem de marcação de síntese de fala (SSML, na sigla em inglês) tem si
 Você pode ver alguns exemplos na própria raiz do repositório. 
 
 O Google tem uma página bem explicativa sobre como [formatar o SSML](https://cloud.google.com/text-to-speech/docs/ssml?hl=pt-br).
+
+## Antes de executar - uso da API do Google
+
+Antes de executar o programa, é necessário carregar o arquivo com as credenciais JSON. No meu caso, por exemplo
+
+`export GOOGLE_APPLICATION_CREDENTIALS="/home/cewitte/GCP/pabx-58f1caa85116.json"`
